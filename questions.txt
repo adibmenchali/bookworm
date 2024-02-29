@@ -1,4 +1,4 @@
-[]
+[
     f"What is {title} about?",
     f"Who is the author of {title}?",
     f"When was {title} published?",
