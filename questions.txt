@@ -1,274 +1,272 @@
-[
-    f"What is {title} about?",
-    f"Who is the author of {title}?",
-    f"When was {title} published?",
-    f"What is the genre of {title}?",
-    f"How many pages does {title} have?",
-    f"Can you summarize {title}?",
-    f"Who was {title} written by?",
-    f"Give me info about a book called {title}?",
-    f"I'm interested in knowing about the book titled {title}.",
-    f"{title}: can you provide a summary?",
-    f"Could you tell me something about the book named {title}?",
-    f"I'd like to learn more about {title}, could you help?",
-    f"Do you have any information on {title}?",
-    f"I'm curious about {title}, what can you tell me?",
-    f"Could you give me some details about {title}?",
-    f"Please provide some insights into {title}.",
-    f"I want to know about the content of {title}.",
-    f"Tell me about the author of {title}.",
-    f"What can you tell me about {title}?",
-    f"I'm looking for information on {title}, can you assist?",
-    f"Could you give me an overview of {title}?",
-    f"Who wrote {title}?",
-    f"When did {title} come out?",
-    f"What genre does {title} belong to?",
-    f"How long is {title}?",
-    f"Give me a summary of {title} by its author.",
-    f"Tell me about {title}'s author.",
-    f"What's the story behind {title}?",
-    f"Provide details on {title}.",
-    f"What's the background of {title}?",
-    f"Can you provide a brief on {title}?",
-    f"Share some insights into {title} please.",
-    f"I'm interested in the book titled {title}, can you tell me more?",
-    f"What's {title} all about?",
-    f"Could you describe {title} to me?",
-    f"I'd like to learn more about {title}.",
-    f"Who penned {title}?",
-    f"What's the plot of {title}?",
-    f"What's {title}?",
-    f"Could you elaborate on {title}?",
-    f"What's the buzz about {title}?",
-    f"What's unique about {title}?",
-    f"Any notable features of {title}?",
-    f"What distinguishes {title}?",
-    f"What makes {title} stand out?",
-    f"Can you highlight key points of {title}?",
-    f"Tell me something intriguing about {title}.",
-    f"Are there any themes in {title}?",
-    f"What's the central theme of {title}?",
-    f"Does {title} have any hidden messages?",
-    f"Is there symbolism in {title}?",
-    f"Can you provide analysis on {title}?",
-    f"Does {title} explore any specific topics?",
-    f"What's the significance of {title}?",
-    f"Is {title} part of a series?",
-    f"Are there any sequels to {title}?",
-    f"Has {title} won any awards?",
-    f"Is {title} critically acclaimed?",
-    f"What's the reception of {title}?",
-    f"Are there any adaptations of {title}?",
-    f"Is {title} being made into a movie?",
-    f"What's the impact of {title}?",
-    f"Does {title} have any cultural significance?",
-    f"Is {title} popular among readers?",
-    f"What's the target audience of {title}?",
-    f"Is {title} recommended for a specific age group?",
-    f"Is {title} suitable for children?",
-    f"Is {title} appropriate for young adults?",
-    f"What age range is {title} suitable for?",
-    f"Does {title} contain mature content?",
-    f"Is {title} educational?",
-    f"What lessons can be learned from {title}?",
-    f"Does {title} offer any insights?",
-    f"Is {title} inspiring?",
-    f"What's the moral of {title}?",
-    f"Is {title} thought-provoking?",
-    f"What messages does {title} convey?",
-    f"Does {title} have any life lessons?",
-    f"Is {title} emotionally engaging?",
-    f"What emotions does {title} evoke?",
-    f"Is {title} a tearjerker?",
-    f"Is {title} heartwarming?",
-    f"Does {title} have any humor?",
-    f"Is {title} funny?",
-    f"What's the tone of {title}?",
-    f"Does {title} have any suspense?",
-    f"Is {title} mysterious?",
-    f"What's the atmosphere of {title}?",
-    f"Does {title} have any romance?",
-    f"Is {title} romantic?",
-    f"Does {title} have any action?",
-    f"Is {title} thrilling?",
-    f"Does {title} have any horror elements?",
-    f"Is {title} scary?",
-    f"Does {title} have any fantasy elements?",
-    f"Is {title} fantastical?",
-    f"Does {title} have any science fiction elements?",
-    f"Is {title} futuristic?",
-    f"Does {title} have any adventure?",
-    f"Is {title} adventurous?",
-    f"Does {title} have any historical elements?",
-    f"Is {title} historically accurate?",
-    f"Does {title} have any magical elements?",
-    f"Is {title} magical?",
-    f"Does {title} have any supernatural elements?",
-    f"Is {title} supernatural?",
-    f"Does {title} have any mythological elements?",
-    f"Is {title} mythological?",
-    f"Does {title} have any political themes?",
-    f"Is {title} political?",
-    f"Does {title} have any social commentary?",
-    f"Is {title} socially relevant?",
-    f"Does {title} have any philosophical themes?",
-    f"Is {title} philosophical?",
-    f"Does {title} have any religious elements?",
-    f"Is {title} religious?",
-    f"Does {title} have any cultural elements?",
-    f"Is {title} culturally significant?",
-    f"Does {title} have any environmental themes?",
-    f"Is {title} environmental?",
-    f"Does {title} have any ethical dilemmas?",
-    f"Is {title} thought-provoking?",
-    f"Does {title} have any psychological themes?",
-    f"Is {title} psychological?",
-    f"Does {title} have any moral dilemmas?",
-    f"Is {title} morally ambiguous?",
-    f"Does {title} have any existential themes?",
-    f"Is {title} existential?",
-    f"Does {title} have any coming-of-age themes?",
-    f"Is {title} coming-of-age?",
-    f"Does {title} have any identity themes?",
-    f"Is {title} about identity?",
-    f"Does {title} have any family themes?",
-    f"Is {title} about family?",
-    f"Does {title} have any friendship themes?",
-    f"Is {title} about friendship?",
-    f"Does {title} have any love themes?",
-    f"Is {title} about love?",
-    f"Does {title} have any loss themes?",
-    f"Is {title} about loss?",
-    f"Does {title} have any growth themes?",
-    f"Is {title} about growth?",
-    f"Does {title} have any redemption themes?",
-    f"Is {title} about redemption?",
-    f"Does {title} have any hero's journey elements?",
-    f"Is {title} a hero's journey?",
-    f"Does {title} have any dystopian elements?",
-    f"Is {title} dystopian?",
-    f"Does {title} have any utopian elements?",
-    f"Is {title} utopian?",
-    f"Does {title} have any rebellion themes?",
-    f"Is {title} about rebellion?",
-    f"Does {title} have any war themes?",
-    f"Is {title} about war?",
-    f"Does {title} have any peace themes?",
-    f"Is {title} about peace?",
-    f"Does {title} have any survival themes?",
-    f"Is {title} about survival?",
-    f"Does {title} have any justice themes?",
-    f"Is {title} about justice?",
-    f"Does {title} have any adventure themes?",
-    f"Is {title} adventurous?",
-    f"Does {title} have any humor themes?",
-    f"Is {title} humorous?",
-    f"Does {title} have any romance themes?",
-    f"Is {title} romantic?",
-    f"Does {title} have any tragedy themes?",
-    f"Is {title} tragic?",
-    f"Does {title} have any comedy themes?",
-    f"Is {title} comedic?",
-    f"Does {title} have any mystery themes?",
-    f"Is {title} mysterious?",
-    f"Does {title} have any thriller themes?",
-    f"Is {title} thrilling?",
-    f"Does {title} have any horror themes?",
-    f"Is {title} horrifying?",
-    f"Does {title} have any fantasy themes?",
-    f"Is {title} fantastical?",
-    f"Does {title} have any science fiction themes?",
-    f"Is {title} futuristic?",
-    f"Does {title} have any historical themes?",
-    f"Is {title} historically accurate?",
-    f"Does {title} have any magical themes?",
-    f"Is {title} magical?",
-    f"Does {title} have any supernatural themes?",
-    f"Is {title} supernatural?",
-    f"Does {title} have any mythological themes?",
-    f"Is {title} mythological?",
-    f"Does {title} have any political themes?",
-    f"Is {title} political?",
-    f"Does {title} have any social themes?",
-    f"Is {title} socially relevant?",
-    f"Does {title} have any philosophical themes?",
-    f"Is {title} philosophical?",
-    f"Does {title} have any religious themes?",
-    f"Is {title} religious?",
-    f"Does {title} have any cultural themes?",
-    f"Is {title} culturally significant?",
-    f"Does {title} have any environmental themes?",
-    f"Is {title} environmental?",
-    f"Does {title} have any ethical themes?",
-    f"Is {title} thought-provoking?",
-    f"Does {title} have any psychological themes?",
-    f"Is {title} psychological?",
-    f"Does {title} have any moral themes?",
-    f"Is {title} morally ambiguous?",
-    f"Does {title} have any existential themes?",
-    f"Is {title} existential?",
-    f"Does {title} have any coming-of-age themes?",
-    f"Is {title} coming-of-age?",
-    f"Does {title} have any identity themes?",
-    f"Is {title} about identity?",
-    f"Does {title} have any family themes?",
-    f"Is {title} about family?",
-    f"Does {title} have any friendship themes?",
-    f"Is {title} about friendship?",
-    f"Does {title} have any love themes?",
-    f"Is {title} about love?",
-    f"Does {title} have any loss themes?",
-    f"Is {title} about loss?",
-    f"Does {title} have any growth themes?",
-    f"Is {title} about growth?",
-    f"Does {title} have any redemption themes?",
-    f"Is {title} about redemption?",
-    f"Does {title} have any hero's journey themes?",
-    f"Is {title} a hero's journey?",
-    f"Does {title} have any dystopian themes?",
-    f"Is {title} dystopian?",
-    f"Does {title} have any utopian themes?",
-    f"Is {title} utopian?",
-    f"Does {title} have any rebellion themes?",
-    f"Is {title} about rebellion?",
-    f"Does {title} have any war themes?",
-    f"Is {title} about war?",
-    f"Does {title} have any peace themes?",
-    f"Is {title} about peace?",
-    f"Does {title} have any survival themes?",
-    f"Is {title} about survival?",
-    f"Does {title} have any justice themes?",
-    f"Is {title} about justice?",
-    f"Does {title} have any adventure themes?",
-    f"Is {title} adventurous?",
-    f"Does {title} have any humor themes?",
-    f"Is {title} humorous?",
-    f"Does {title} have any romance themes?",
-    f"Is {title} romantic?",
-    f"Does {title} have any tragedy themes?",
-    f"Is {title} tragic?",
-    f"Does {title} have any comedy themes?",
-    f"Is {title} comedic?",
-    f"Does {title} have any mystery themes?",
-    f"Is {title} mysterious?",
-    f"Does {title} have any thriller themes?",
-    f"Is {title} thrilling?",
-    f"Does {title} have any horror themes?",
-    f"Is {title} horrifying?",
-    f"Does {title} have any fantasy themes?",
-    f"Is {title} fantastical?",
-    f"Does {title} have any science fiction themes?",
-    f"Is {title} futuristic?",
-    f"Does {title} have any historical themes?",
-    f"Is {title} historically accurate?",
-    f"Does {title} have any magical themes?",
-    f"Is {title} magical?",
-    f"Does {title} have any supernatural themes?",
-    f"Is {title} supernatural?",
-    f"Does {title} have any mythological themes?",
-    f"Is {title} mythological?",
-    f"Does {title} have any political themes?",
-    f"Is {title} political?",
-    f"Does {title} have any social themes?",
-    f"Is {title} socially relevant?"
-]
+What is {title} about?
+Who is the author of {title}?
+When was {title} published?
+What is the genre of {title}?
+How many pages does {title} have?
+Can you summarize {title}?
+Who was {title} written by?
+Give me info about a book called {title}?
+I'm interested in knowing about the book titled {title}.
+{title}: can you provide a summary?
+Could you tell me something about the book named {title}?
+I'd like to learn more about {title} could you help?
+Do you have any information on {title}?
+I'm curious about {title} what can you tell me?
+Could you give me some details about {title}?
+Please provide some insights into {title}.
+I want to know about the content of {title}.
+Tell me about the author of {title}.
+What can you tell me about {title}?
+I'm looking for information on {title} can you assist?
+Could you give me an overview of {title}?
+Who wrote {title}?
+When did {title} come out?
+What genre does {title} belong to?
+How long is {title}?
+Give me a summary of {title} by its author.
+Tell me about {title}'s author.
+What's the story behind {title}?
+Provide details on {title}.
+What's the background of {title}?
+Can you provide a brief on {title}?
+Share some insights into {title} please.
+I'm interested in the book titled {title} can you tell me more?
+What's {title} all about?
+Could you describe {title} to me?
+I'd like to learn more about {title}.
+Who penned {title}?
+What's the plot of {title}?
+What's {title}?
+Could you elaborate on {title}?
+What's the buzz about {title}?
+What's unique about {title}?
+Any notable features of {title}?
+What distinguishes {title}?
+What makes {title} stand out?
+Can you highlight key points of {title}?
+Tell me something intriguing about {title}.
+Are there any themes in {title}?
+What's the central theme of {title}?
+Does {title} have any hidden messages?
+Is there symbolism in {title}?
+Can you provide analysis on {title}?
+Does {title} explore any specific topics?
+What's the significance of {title}?
+Is {title} part of a series?
+Are there any sequels to {title}?
+Has {title} won any awards?
+Is {title} critically acclaimed?
+What's the reception of {title}?
+Are there any adaptations of {title}?
+Is {title} being made into a movie?
+What's the impact of {title}?
+Does {title} have any cultural significance?
+Is {title} popular among readers?
+What's the target audience of {title}?
+Is {title} recommended for a specific age group?
+Is {title} suitable for children?
+Is {title} appropriate for young adults?
+What age range is {title} suitable for?
+Does {title} contain mature content?
+Is {title} educational?
+What lessons can be learned from {title}?
+Does {title} offer any insights?
+Is {title} inspiring?
+What's the moral of {title}?
+Is {title} thought-provoking?
+What messages does {title} convey?
+Does {title} have any life lessons?
+Is {title} emotionally engaging?
+What emotions does {title} evoke?
+Is {title} a tearjerker?
+Is {title} heartwarming?
+Does {title} have any humor?
+Is {title} funny?
+What's the tone of {title}?
+Does {title} have any suspense?
+Is {title} mysterious?
+What's the atmosphere of {title}?
+Does {title} have any romance?
+Is {title} romantic?
+Does {title} have any action?
+Is {title} thrilling?
+Does {title} have any horror elements?
+Is {title} scary?
+Does {title} have any fantasy elements?
+Is {title} fantastical?
+Does {title} have any science fiction elements?
+Is {title} futuristic?
+Does {title} have any adventure?
+Is {title} adventurous?
+Does {title} have any historical elements?
+Is {title} historically accurate?
+Does {title} have any magical elements?
+Is {title} magical?
+Does {title} have any supernatural elements?
+Is {title} supernatural?
+Does {title} have any mythological elements?
+Is {title} mythological?
+Does {title} have any political themes?
+Is {title} political?
+Does {title} have any social commentary?
+Is {title} socially relevant?
+Does {title} have any philosophical themes?
+Is {title} philosophical?
+Does {title} have any religious elements?
+Is {title} religious?
+Does {title} have any cultural elements?
+Is {title} culturally significant?
+Does {title} have any environmental themes?
+Is {title} environmental?
+Does {title} have any ethical dilemmas?
+Is {title} thought-provoking?
+Does {title} have any psychological themes?
+Is {title} psychological?
+Does {title} have any moral dilemmas?
+Is {title} morally ambiguous?
+Does {title} have any existential themes?
+Is {title} existential?
+Does {title} have any coming-of-age themes?
+Is {title} coming-of-age?
+Does {title} have any identity themes?
+Is {title} about identity?
+Does {title} have any family themes?
+Is {title} about family?
+Does {title} have any friendship themes?
+Is {title} about friendship?
+Does {title} have any love themes?
+Is {title} about love?
+Does {title} have any loss themes?
+Is {title} about loss?
+Does {title} have any growth themes?
+Is {title} about growth?
+Does {title} have any redemption themes?
+Is {title} about redemption?
+Does {title} have any hero's journey elements?
+Is {title} a hero's journey?
+Does {title} have any dystopian elements?
+Is {title} dystopian?
+Does {title} have any utopian elements?
+Is {title} utopian?
+Does {title} have any rebellion themes?
+Is {title} about rebellion?
+Does {title} have any war themes?
+Is {title} about war?
+Does {title} have any peace themes?
+Is {title} about peace?
+Does {title} have any survival themes?
+Is {title} about survival?
+Does {title} have any justice themes?
+Is {title} about justice?
+Does {title} have any adventure themes?
+Is {title} adventurous?
+Does {title} have any humor themes?
+Is {title} humorous?
+Does {title} have any romance themes?
+Is {title} romantic?
+Does {title} have any tragedy themes?
+Is {title} tragic?
+Does {title} have any comedy themes?
+Is {title} comedic?
+Does {title} have any mystery themes?
+Is {title} mysterious?
+Does {title} have any thriller themes?
+Is {title} thrilling?
+Does {title} have any horror themes?
+Is {title} horrifying?
+Does {title} have any fantasy themes?
+Is {title} fantastical?
+Does {title} have any science fiction themes?
+Is {title} futuristic?
+Does {title} have any historical themes?
+Is {title} historically accurate?
+Does {title} have any magical themes?
+Is {title} magical?
+Does {title} have any supernatural themes?
+Is {title} supernatural?
+Does {title} have any mythological themes?
+Is {title} mythological?
+Does {title} have any political themes?
+Is {title} political?
+Does {title} have any social themes?
+Is {title} socially relevant?
+Does {title} have any philosophical themes?
+Is {title} philosophical?
+Does {title} have any religious themes?
+Is {title} religious?
+Does {title} have any cultural themes?
+Is {title} culturally significant?
+Does {title} have any environmental themes?
+Is {title} environmental?
+Does {title} have any ethical themes?
+Is {title} thought-provoking?
+Does {title} have any psychological themes?
+Is {title} psychological?
+Does {title} have any moral themes?
+Is {title} morally ambiguous?
+Does {title} have any existential themes?
+Is {title} existential?
+Does {title} have any coming-of-age themes?
+Is {title} coming-of-age?
+Does {title} have any identity themes?
+Is {title} about identity?
+Does {title} have any family themes?
+Is {title} about family?
+Does {title} have any friendship themes?
+Is {title} about friendship?
+Does {title} have any love themes?
+Is {title} about love?
+Does {title} have any loss themes?
+Is {title} about loss?
+Does {title} have any growth themes?
+Is {title} about growth?
+Does {title} have any redemption themes?
+Is {title} about redemption?
+Does {title} have any hero's journey themes?
+Is {title} a hero's journey?
+Does {title} have any dystopian themes?
+Is {title} dystopian?
+Does {title} have any utopian themes?
+Is {title} utopian?
+Does {title} have any rebellion themes?
+Is {title} about rebellion?
+Does {title} have any war themes?
+Is {title} about war?
+Does {title} have any peace themes?
+Is {title} about peace?
+Does {title} have any survival themes?
+Is {title} about survival?
+Does {title} have any justice themes?
+Is {title} about justice?
+Does {title} have any adventure themes?
+Is {title} adventurous?
+Does {title} have any humor themes?
+Is {title} humorous?
+Does {title} have any romance themes?
+Is {title} romantic?
+Does {title} have any tragedy themes?
+Is {title} tragic?
+Does {title} have any comedy themes?
+Is {title} comedic?
+Does {title} have any mystery themes?
+Is {title} mysterious?
+Does {title} have any thriller themes?
+Is {title} thrilling?
+Does {title} have any horror themes?
+Is {title} horrifying?
+Does {title} have any fantasy themes?
+Is {title} fantastical?
+Does {title} have any science fiction themes?
+Is {title} futuristic?
+Does {title} have any historical themes?
+Is {title} historically accurate?
+Does {title} have any magical themes?
+Is {title} magical?
+Does {title} have any supernatural themes?
+Is {title} supernatural?
+Does {title} have any mythological themes?
+Is {title} mythological?
+Does {title} have any political themes?
+Is {title} political?
+Does {title} have any social themes?
+Is {title} socially relevant?
