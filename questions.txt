@@ -1,19 +1,19 @@
-What is title about?
-Who is the author of title?
-When was title published?
-What is the genre of title?
-How many pages does title have?
-Can you summarize title?
-Who was title written by?
-Give me info about a book called title?
-title: can you provide a summary?
-Could you tell me something about the book named title?
-I'd like to learn more about title could you help?
-Do you have any information on title?
-Please provide some insights into title.
-I want to know about the content of title.
-Tell me about the author of title.
-What can you tell me about title?
-Who wrote title?
-When did title come out?
-How long is title?
+What is {title} about?
+Who is the author of {title}?
+When was {title} published?
+What is the genre of {title}?
+How many pages does {title} have?
+Can you summarize {title}?
+Who was {title} written by?
+Give me info about a book called {title}?
+{title}: can you provide a summary?
+Could you tell me something about the book named {title}?
+I'd like to learn more about {title} could you help?
+Do you have any information on {title}?
+Please provide some insights into {title}.
+I want to know about the content of {title}.
+Tell me about the author of {title}.
+What can you tell me about {title}?
+Who wrote {title}?
+When did {title} come out?
+How long is {title}?
