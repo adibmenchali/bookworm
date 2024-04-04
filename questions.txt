@@ -17,3 +17,4 @@ What can you tell me about {title}?
 Who wrote {title}?
 When did {title} come out?
 How long is {title}?
+How many pages are in {title}?
