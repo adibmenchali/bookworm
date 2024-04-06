@@ -110,7 +110,7 @@ def get_best_answer(qa_pipeline, user_question):
     best_answer = max(valid_answers, key=lambda x: x.score)
 
     # Find answers with the same title as the best answer
-    same_title_answers = [answer for answer in valid_answers if answer.document.meta['title'] == best_answer.document.meta['title']]
+    same_title_answers = [answer for answer in valid_answers if answer.document.meta['title'] == best_answer.document.meta['title'] and answer.score > 0.5]
     # If there are answers with the same title, select the longest one
     if same_title_answers:
         best_answer = max(same_title_answers, key=lambda x: len(x.data))
