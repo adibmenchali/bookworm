@@ -17,8 +17,11 @@ What can you tell me about {title}?
 Who wrote {title}?
 When did {title} come out?
 How long is {title}?
-<<<<<<< HEAD
 How many pages are in {title}?
-=======
-How many pages are in {title}?
->>>>>>> 92232696c3c24483e9632ea075ca453a2c167888
+What is it about?
+Who wrote it?
+Who published it?
+Who is the author of?
+When was published?
+How many pages does have?
+Who wrote?
