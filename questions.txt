@@ -18,10 +18,10 @@ Who wrote {title}?
 When did {title} come out?
 How long is {title}?
 How many pages are in {title}?
-What is it about?
-Who wrote it?
-Who published it?
-Who is the author of?
+What is {it} about?
+Who wrote {it}?
+Who published {it}?
+Who is the author {of}?
 When was published?
 How many pages does have?
 Who wrote?
