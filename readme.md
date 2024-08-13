@@ -18,7 +18,7 @@ This project focuses on developing an AI system to effectively respond to querie
 ## Implementation
 
 - **AI Assistant:** Demonstrated the AI-powered book question-answering system with integrated recommendation features.
-  ![AI Assistant](img/image1.png)
+  ![AI Assistant](img/image2.png)
 - **Integrated Recommendation System:** Implemented to propose relevant book recommendations based on the analyzed data.
   ![Integrated Recommendation System](img/image3.png)
 - **Model Evaluation:** Evaluated the performance of both the question-answering and recommendation systems to ensure accuracy and relevance.
